@@ -1,7 +1,7 @@
 import { getSessionId } from "../utils/sessionId";
 import Toastify from 'toastify-js'
 const BASE_URL =
-  process.env.NEXT_PUBLIC_API_URL || "https://kilimogpt-backend.onrender.com";
+  process.env.NEXT_PUBLIC_API_URL || "https://kilimogpt-backend.onrender.com/api/v1";
 
 export async function askQuestion(question: string) {
   const sessionId = getSessionId();
