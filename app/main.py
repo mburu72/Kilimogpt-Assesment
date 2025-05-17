@@ -5,6 +5,7 @@ from app.core import exceptions, logger
 from app.api.endpoints import router as api_router
 from app.core.config import settings
 from app.models.db import create_db_and_tables
+
 app = FastAPI(title="KilimoGPT", docs_url="/docs")
 
 app.add_middleware(
