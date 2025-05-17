@@ -33,3 +33,7 @@ async def shutdown_event():
 @app.get("/")
 def read_root():
     return {"message":"Welcome to KilimoGPT API"}
+
+@app.get("/health")
+async def health_check():
+    return {"status": "ok"}

@@ -32,6 +32,3 @@ def get_chat_history(session: Session = Depends(get_session), session_id: str=He
     chats = session.exec(select(Chat).where(Chat.session_id == session_id)).all()
     return chats
 
-@app.get("/health")
-async def health_check():
-    return {"status": "ok"}
