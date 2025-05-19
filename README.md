@@ -137,7 +137,7 @@ X-Session-Id: string – A unique session identifier (used to track chat history
 ## Tech Stack
 
 - Backend: FastAPI + Gemini AI + SQLite + Docker
-- Frontend: Next.js + Tailwind CSS + Fetch API
+- Frontend: Next.js + Tailwind CSS
 
 ---
 
