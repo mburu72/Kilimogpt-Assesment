@@ -91,13 +91,10 @@ X-Session-Id: <your-session-id>
 
 ```json
 [
-  {
-    "id": 1,
-    "session_id": "xyz123",
-    "question": "How do I plant maize in Kenya?",
-    "answer": "To plant maize in Kenya...",
-    "timestamp": "2025-05-17T06:00:00"
-  }
+     {
+        "question": "hello",
+        "answer": "Hello! I am KilimoGPT, ready to assist you with your farming questions related to Kenya. Ask away!"
+    }
 ]
 ```
 
