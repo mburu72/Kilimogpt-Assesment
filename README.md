@@ -4,7 +4,7 @@ KilimoGPT is an AI-powered chatbot specialized in answering agriculture-related 
 
 ##  Live Links
 
-- 🔗 Frontend: [https://kilimogpt.netlify.app](https://kilimogpt.netlify.app)
+- 🔗 Live App: [https://kilimogpt.netlify.app](https://kilimogpt.netlify.app)
 - 📘 API Docs: [https://kilimogpt-backend.onrender.com/docs](https://kilimogpt-backend.onrender.com/docs)
 - 💻 GitHub Repo: [https://github.com/mburu72/Kilimogpt-Assesment](https://github.com/mburu72/Kilimogpt-Assesment)
 
