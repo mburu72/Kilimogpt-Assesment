@@ -143,7 +143,7 @@ X-Session-Id: string – A unique session identifier (used to track chat history
 
 ## Contributions
 
-Contributions, issues, and feature requests are welcome!
+Contributions, issues and feature requests are welcome!
 
 ---
 
